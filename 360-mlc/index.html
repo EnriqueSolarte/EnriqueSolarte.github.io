@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html>
+
+<head lang="en">
+    <meta charset="UTF-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+
+    <title>360-MLC</title>
+
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- <base href="/"> -->
+
+    <!--FACEBOOK-->
+    <!-- <meta property="og:image" content="https://jonbarron.info/mipnerf/img/rays_square.png">
+    <meta property="og:image:type" content="image/png">
+    <meta property="og:image:width" content="682">
+    <meta property="og:image:height" content="682">
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://jonbarron.info/mipnerf/" />
+    <meta property="og:title" content="mip-NeRF" />
+    <meta property="og:description" content="Project page for Mip-NeRF: A Multiscale Representation for Anti-Aliasing Neural Radiance Fields." /> -->
+
+    <!--TWITTER-->
+    <!-- <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="mip-NeRF" />
+    <meta name="twitter:description" content="Project page for Mip-NeRF: A Multiscale Representation for Anti-Aliasing Neural Radiance Fields." />
+    <meta name="twitter:image" content="https://jonbarron.info/mipnerf/img/rays_square.png" /> -->
+
+
+    <!--     <link rel="apple-touch-icon" href="apple-touch-icon.png"> -->
+    <!-- <link rel="icon" type="image/png" href="img/seal_icon.png"> -->
+    <!-- Place favicon.ico in the root directory -->
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.8.0/codemirror.min.css">
+    <link rel="stylesheet" href="css/app.css">
+    <link rel="stylesheet" href="css/boostrap.min.css">
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.8.0/codemirror.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/1.5.3/clipboard.min.js"></script>
+
+    <script src="js/app.js"></script>
+</head>
+
+<body>
+    <div class="container" id="main">
+        <div class="row">
+            <h2 class="col-md-12 text-center">
+                <b>360-MLC</b>: Multi-view Layout Consistency for <br> Self-training and Hyper-parameter Tuning</br>
+                <small>
+                    NeurIPS 2022
+                </small>
+            </h2>
+        </div>
+        <div class="row">
+            <div class="col-md-12 text-center">
+                <ul class="list-inline">
+                    <li>
+                        <a href="">
+                            Bolivar Enrique Solarte<sup>*1</sup>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://chinhsuanwu.github.io">
+                            Chin-Hsuan Wu<sup>*1</sup>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="http://liu115.github.io">
+                            Yueh-Cheng Liu<sup>1</sup>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://sites.google.com/site/yihsuantsai/">
+                            Yi-Hsuan Tsai<sup>2</sup>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="http://aliensunmin.github.io">
+                            Min Sun<sup>1</sup>
+                        </a>
+                    </li>
+                </ul>
+                <ul class="list-inline mb-0" id="institution">
+                    <li class="list-inline-item">
+                        <sup>1</sup>National Tsing Hua University
+                    </li>
+                    <li class="list-inline-item">
+                        <sup>2</sup>Phiar
+                    </li>
+                </ul>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-4 col-md-offset-4 text-center">
+                <ul class="nav nav-pills nav-justified">
+                    <li>
+                        <a href="">
+                            <span class="fa fa-file-text fa-3x"></span>
+                            <h4><strong>Paper</strong></h4>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="">
+                            <span class="fa fa-youtube-play fa-3x"></span>
+                            <h4><strong>Video</strong></h4>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="">
+                            <span class="fa fa-github fa-3x"></span>
+                            <h4><strong>Code</strong></h4>
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-8 col-md-offset-2">
+                <h3>
+                    Abstract
+                </h3>
+                <!-- <image src="img/rays.png" class="img-responsive" alt="overview"><br> -->
+                <img src="img/teaser.svg " class="img-responsive center-block" alt="overview ">
+                <p class="text-justify">
+                    We present 360-MLC, a self-training method based on multi-view layout consistency for finetuning monocular room-layout models using unlabeled 360-images only. This comes in handy in practical scenarios where a pre-trained model needs to be adapted to
+                    a new data domain without using any ground truth annotations. Our simple yet effective assumption is that multiple layout estimations in the same scene must define a consistent geometry regardless of their camera positions. Based on
+                    this idea, we leverage a pre-trained model to project estimated layout boundaries from several camera views into the 3D world coordinate. Then, we re-project them back to the spherical coordinate and build a probability function, from
+                    which we sample the pseudo-labels for self-training. To handle unconfident pseudo-labels, we evaluate the variance in the re-projected boundaries as an uncertainty value to weight each pseudo-label in our loss function during training.
+                    In addition, since ground truth annotations are not available during training nor in testing, we leverage the entropy information in multiple layout estimations as a quantitative metric to measure the geometry consistency of the scene,
+                    allowing us to evaluate any layout estimator for hyper-parameter tuning, including model selection without ground truth annotations. Experimental results show that our solution achieves favorable performance against state-of-the-art
+                    methods when self-training from three publicly available source datasets to a unique, newly labeled dataset consisting of multi-view of the same scenes.
+                </p>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-8 col-md-offset-2">
+                <h3>
+                    Citation
+                </h3>
+                <div class="form-group col-md-10 col-md-offset-1">
+                    <textarea id="bibtex" class="form-control" readonly>
+@inproceedings{solarte2022mlc,
+    author={Solarte, Bolivar and Wu, Chin-Hsuan and Liu, Yueh-Cheng and Tsai, Yi-Hsuan and Sun, Min},
+    title={360-MLC: Multi-view Layout Consistency for Self-training and Hyper-parameter Tuning},
+    booktitle={Advances in Neural Information Processing Systems},
+    year={2022},
+}</textarea>
+                </div>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-8 col-md-offset-2">
+                <h3>
+                    Acknowledgements
+                </h3>
+                <p class="text-justify">
+                    We thank National Center for High-performance Computing (NCHC) for providing computational resources.
+                    <br>The website template was borrowed from <a href="http://mgharbi.com/">Michaël Gharbi</a>.
+                </p>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>
