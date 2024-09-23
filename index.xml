@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on </description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 25 Aug 2024 10:23:39 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ztos</title>
+      <link>http://localhost:1313/client-work/ztos/</link>
+      <pubDate>Sun, 25 Aug 2024 10:23:39 +0200</pubDate>
+      <guid>http://localhost:1313/client-work/ztos/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Zoo</title>
+      <link>http://localhost:1313/client-work/zoo/</link>
+      <pubDate>Sun, 25 Aug 2024 10:23:08 +0200</pubDate>
+      <guid>http://localhost:1313/client-work/zoo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Kanba</title>
+      <link>http://localhost:1313/client-work/kanba/</link>
+      <pubDate>Sun, 25 Aug 2024 10:22:34 +0200</pubDate>
+      <guid>http://localhost:1313/client-work/kanba/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Goldline</title>
+      <link>http://localhost:1313/client-work/goldline/</link>
+      <pubDate>Sun, 25 Aug 2024 10:21:48 +0200</pubDate>
+      <guid>http://localhost:1313/client-work/goldline/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Earth 2.0</title>
+      <link>http://localhost:1313/client-work/earth2.0/</link>
+      <pubDate>Sun, 25 Aug 2024 10:17:12 +0200</pubDate>
+      <guid>http://localhost:1313/client-work/earth2.0/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Asgardia</title>
+      <link>http://localhost:1313/client-work/asgardia/</link>
+      <pubDate>Sun, 25 Aug 2024 09:53:42 +0200</pubDate>
+      <guid>http://localhost:1313/client-work/asgardia/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Radity Finance - UI Kit</title>
+      <link>http://localhost:1313/projects/radity-finance-uikit/</link>
+      <pubDate>Sun, 25 Aug 2024 09:53:42 +0200</pubDate>
+      <guid>http://localhost:1313/projects/radity-finance-uikit/</guid>
+      <description>We have been receiving a lot of requests for a Finance Kit recently due to the popularity of Fintech.</description>
+    </item>
+    <item>
+      <title>Robo Advisor</title>
+      <link>http://localhost:1313/projects/robo-advisor/</link>
+      <pubDate>Sun, 25 Aug 2024 09:53:42 +0200</pubDate>
+      <guid>http://localhost:1313/projects/robo-advisor/</guid>
+      <description>Robo Advisor is a Swiss Wealth Manager and wants to create the best digital experience for its UNHW clients across the world. We started with a whiteboard.</description>
+    </item>
+    <item>
+      <title>Swiss Fintech Website</title>
+      <link>http://localhost:1313/projects/swiss-fintech/</link>
+      <pubDate>Sun, 25 Aug 2024 09:53:42 +0200</pubDate>
+      <guid>http://localhost:1313/projects/swiss-fintech/</guid>
+      <description>The Swiss Finance + Technology Association is the leading FinTech hub in Switzerland.</description>
+    </item>
+    <item>
+      <title>Sample blog content 3</title>
+      <link>http://localhost:1313/blog/sample-3/</link>
+      <pubDate>Mon, 24 Jun 2024 14:38:33 +0200</pubDate>
+      <guid>http://localhost:1313/blog/sample-3/</guid>
+      <description>Sample blog content. Like a lorem ipsum but saying something more interesting.&#xA;Welcome to the world of &amp;ldquo;Content Ipsum,&amp;rdquo; the fresh alternative to the classic lorem ipsum. It&amp;rsquo;s the perfect blend for designers and writers who crave a dash of creativity and meaning in their placeholder text. Imagine a text that not only fills the space but also sparks the imagination, a text that weaves tales of innovation, inspiration, and the endless possibilities that creativity brings.</description>
+    </item>
+    <item>
+      <title>Sample blog content 2</title>
+      <link>http://localhost:1313/blog/sample-2/</link>
+      <pubDate>Sun, 23 Jun 2024 14:38:33 +0200</pubDate>
+      <guid>http://localhost:1313/blog/sample-2/</guid>
+      <description>Sample blog content. Like a lorem ipsum but saying something more interesting.&#xA;Welcome to the world of &amp;ldquo;Content Ipsum,&amp;rdquo; the fresh alternative to the classic lorem ipsum. It&amp;rsquo;s the perfect blend for designers and writers who crave a dash of creativity and meaning in their placeholder text. Imagine a text that not only fills the space but also sparks the imagination, a text that weaves tales of innovation, inspiration, and the endless possibilities that creativity brings.</description>
+    </item>
+    <item>
+      <title>Sample blog content 1</title>
+      <link>http://localhost:1313/blog/sample/</link>
+      <pubDate>Fri, 21 Jun 2024 14:38:33 +0200</pubDate>
+      <guid>http://localhost:1313/blog/sample/</guid>
+      <description>Sample blog content. Like a lorem ipsum but saying something more interesting.&#xA;Welcome to the world of &amp;ldquo;Content Ipsum,&amp;rdquo; the fresh alternative to the classic lorem ipsum. It&amp;rsquo;s the perfect blend for designers and writers who crave a dash of creativity and meaning in their placeholder text. Imagine a text that not only fills the space but also sparks the imagination, a text that weaves tales of innovation, inspiration, and the endless possibilities that creativity brings.</description>
+    </item>
+    <item>
+      <title>Job #1</title>
+      <link>http://localhost:1313/experience/job-1/</link>
+      <pubDate>Sat, 01 Dec 2007 00:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/experience/job-1/</guid>
+      <description>Fixing the world, one byte at a time The beginning of a great career.</description>
+    </item>
+    <item>
+      <title>Job #2</title>
+      <link>http://localhost:1313/experience/job-2/</link>
+      <pubDate>Sat, 01 Dec 2007 00:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/experience/job-2/</guid>
+      <description>Fixing the world, one byte at a time Continuing the quest.</description>
+    </item>
+    <item>
+      <title>Job #3</title>
+      <link>http://localhost:1313/experience/job-3/</link>
+      <pubDate>Sat, 01 Dec 2007 00:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/experience/job-3/</guid>
+      <description>Fixing the world, one byte at a time Hostile takeover - who is the boss now!</description>
+    </item>
+  </channel>
+</rss>
