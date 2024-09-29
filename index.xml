@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <link>https://EnriqueSolarte.github.io/</link>
+    <description>Recent content on </description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 01 Feb 2024 00:00:00 +0100</lastBuildDate>
+    <atom:link href="https://EnriqueSolarte.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>iFusion: Inverting Diffusion for Pose-Free Reconstruction from Sparse Views</title>
+      <link>https://EnriqueSolarte.github.io/publication/2024_ifusion/</link>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 +0100</pubDate>
+      <guid>https://EnriqueSolarte.github.io/publication/2024_ifusion/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Self-training Room Layout Estimation via Geometry-aware Ray-casting</title>
+      <link>https://EnriqueSolarte.github.io/publication/2025_ray_catsing_mlc/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0100</pubDate>
+      <guid>https://EnriqueSolarte.github.io/publication/2025_ray_catsing_mlc/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>360-MLC: Multi-view Layout Consistency for Self-training and Hyper-parameter Tuning</title>
+      <link>https://EnriqueSolarte.github.io/publication/2022_360-mlc/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0100</pubDate>
+      <guid>https://EnriqueSolarte.github.io/publication/2022_360-mlc/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>360-DFPE: Leveraging Monocular 360-Layouts for Direct Floor Plan Estimation</title>
+      <link>https://EnriqueSolarte.github.io/publication/2022_360-dfpe/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0100</pubDate>
+      <guid>https://EnriqueSolarte.github.io/publication/2022_360-dfpe/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Robust 360-8PA: Redesigning The Normalized 8-point Algorithm for 360-FoV Images</title>
+      <link>https://EnriqueSolarte.github.io/publication/2021_robust_360_8pa/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0100</pubDate>
+      <guid>https://EnriqueSolarte.github.io/publication/2021_robust_360_8pa/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>360SD-Net: 360° Stereo Depth Estimation with Learnable Cost Volume</title>
+      <link>https://EnriqueSolarte.github.io/publication/2020_360sd-net/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0100</pubDate>
+      <guid>https://EnriqueSolarte.github.io/publication/2020_360sd-net/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cutting Insert and Parameter Optimization for Turning Based on Artificial Neural Networks and a Genetic Algorithm</title>
+      <link>https://EnriqueSolarte.github.io/publication/2019_cutting_insert_opt/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0100</pubDate>
+      <guid>https://EnriqueSolarte.github.io/publication/2019_cutting_insert_opt/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
