@@ -2,66 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title></title>
-    <link>https://enriquesolarte.github.io/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on </description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 01 Feb 2024 00:00:00 +0100</lastBuildDate>
-    <atom:link href="https://enriquesolarte.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>iFusion: Inverting Diffusion for Pose-Free Reconstruction from Sparse Views</title>
-      <link>https://enriquesolarte.github.io/publication/2024_ifusion/</link>
+      <link>http://localhost:1313/publication/2024_ifusion/</link>
       <pubDate>Thu, 01 Feb 2024 00:00:00 +0100</pubDate>
-      <guid>https://enriquesolarte.github.io/publication/2024_ifusion/</guid>
+      <guid>http://localhost:1313/publication/2024_ifusion/</guid>
       <description></description>
     </item>
     <item>
       <title>uLayout: Unified Room Layout Estimation for Perspective and Panoramic Images</title>
-      <link>https://enriquesolarte.github.io/publication/2024_ulayout/</link>
+      <link>http://localhost:1313/publication/2024_ulayout/</link>
       <pubDate>Thu, 01 Feb 2024 00:00:00 +0300</pubDate>
-      <guid>https://enriquesolarte.github.io/publication/2024_ulayout/</guid>
+      <guid>http://localhost:1313/publication/2024_ulayout/</guid>
       <description></description>
     </item>
     <item>
       <title>Self-training Room Layout Estimation via Geometry-aware Ray-casting</title>
-      <link>https://enriquesolarte.github.io/publication/2024_ray_casting_mlc/</link>
+      <link>http://localhost:1313/publication/2024_ray_casting_mlc/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0100</pubDate>
-      <guid>https://enriquesolarte.github.io/publication/2024_ray_casting_mlc/</guid>
+      <guid>http://localhost:1313/publication/2024_ray_casting_mlc/</guid>
       <description></description>
     </item>
     <item>
       <title>360-MLC: Multi-view Layout Consistency for Self-training and Hyper-parameter Tuning</title>
-      <link>https://enriquesolarte.github.io/publication/2022_360-mlc/</link>
+      <link>http://localhost:1313/publication/2022_360-mlc/</link>
       <pubDate>Fri, 01 Dec 2023 00:00:00 +0100</pubDate>
-      <guid>https://enriquesolarte.github.io/publication/2022_360-mlc/</guid>
+      <guid>http://localhost:1313/publication/2022_360-mlc/</guid>
       <description></description>
     </item>
     <item>
       <title>360-DFPE: Leveraging Monocular 360-Layouts for Direct Floor Plan Estimation</title>
-      <link>https://enriquesolarte.github.io/publication/2022_360-dfpe/</link>
+      <link>http://localhost:1313/publication/2022_360-dfpe/</link>
       <pubDate>Thu, 01 Dec 2022 00:00:00 +0100</pubDate>
-      <guid>https://enriquesolarte.github.io/publication/2022_360-dfpe/</guid>
+      <guid>http://localhost:1313/publication/2022_360-dfpe/</guid>
       <description></description>
     </item>
     <item>
       <title>Robust 360-8PA: Redesigning The Normalized 8-point Algorithm for 360-FoV Images</title>
-      <link>https://enriquesolarte.github.io/publication/2021_robust_360_8pa/</link>
+      <link>http://localhost:1313/publication/2021_robust_360_8pa/</link>
       <pubDate>Wed, 01 Dec 2021 00:00:00 +0100</pubDate>
-      <guid>https://enriquesolarte.github.io/publication/2021_robust_360_8pa/</guid>
+      <guid>http://localhost:1313/publication/2021_robust_360_8pa/</guid>
       <description></description>
     </item>
     <item>
       <title>360SD-Net: 360° Stereo Depth Estimation with Learnable Cost Volume</title>
-      <link>https://enriquesolarte.github.io/publication/2020_360sd-net/</link>
+      <link>http://localhost:1313/publication/2020_360sd-net/</link>
       <pubDate>Tue, 01 Dec 2020 00:00:00 +0100</pubDate>
-      <guid>https://enriquesolarte.github.io/publication/2020_360sd-net/</guid>
+      <guid>http://localhost:1313/publication/2020_360sd-net/</guid>
       <description></description>
     </item>
     <item>
       <title>Cutting Insert and Parameter Optimization for Turning Based on Artificial Neural Networks and a Genetic Algorithm</title>
-      <link>https://enriquesolarte.github.io/publication/2019_cutting_insert_opt/</link>
+      <link>http://localhost:1313/publication/2019_cutting_insert_opt/</link>
       <pubDate>Sun, 01 Dec 2019 00:00:00 +0100</pubDate>
-      <guid>https://enriquesolarte.github.io/publication/2019_cutting_insert_opt/</guid>
+      <guid>http://localhost:1313/publication/2019_cutting_insert_opt/</guid>
       <description></description>
     </item>
   </channel>
