@@ -6,8 +6,22 @@
     <description>Recent content on </description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 01 Feb 2024 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 25 Nov 2024 09:53:42 +0200</lastBuildDate>
     <atom:link href="https://enriquesolarte.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Semantic Map and Robot Reasoning</title>
+      <link>https://enriquesolarte.github.io/projects/2024_itri_semantic_map/</link>
+      <pubDate>Mon, 25 Nov 2024 09:53:42 +0200</pubDate>
+      <guid>https://enriquesolarte.github.io/projects/2024_itri_semantic_map/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>iClerk: Using LLM for product dispatching</title>
+      <link>https://enriquesolarte.github.io/projects/2024_itri_iclerk/</link>
+      <pubDate>Thu, 25 Jul 2024 09:53:42 +0200</pubDate>
+      <guid>https://enriquesolarte.github.io/projects/2024_itri_iclerk/</guid>
+      <description></description>
+    </item>
     <item>
       <title>iFusion: Inverting Diffusion for Pose-Free Reconstruction from Sparse Views</title>
       <link>https://enriquesolarte.github.io/publication/2024_ifusion/</link>
@@ -20,6 +34,13 @@
       <link>https://enriquesolarte.github.io/publication/2024_ulayout/</link>
       <pubDate>Thu, 01 Feb 2024 00:00:00 +0300</pubDate>
       <guid>https://enriquesolarte.github.io/publication/2024_ulayout/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Vision Inspection System</title>
+      <link>https://enriquesolarte.github.io/projects/2024_itri_tiki/</link>
+      <pubDate>Thu, 25 Jan 2024 09:53:42 +0200</pubDate>
+      <guid>https://enriquesolarte.github.io/projects/2024_itri_tiki/</guid>
       <description></description>
     </item>
     <item>
@@ -37,10 +58,31 @@
       <description></description>
     </item>
     <item>
+      <title>MVL Challenge: Multi-View Layout Estimation</title>
+      <link>https://enriquesolarte.github.io/projects/2023_cvpr_mvl_challenge/</link>
+      <pubDate>Mon, 25 Sep 2023 09:53:42 +0200</pubDate>
+      <guid>https://enriquesolarte.github.io/projects/2023_cvpr_mvl_challenge/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Autonomous Vision Inspection System</title>
+      <link>https://enriquesolarte.github.io/projects/2023_itri_rods/</link>
+      <pubDate>Sun, 25 Jun 2023 09:53:42 +0200</pubDate>
+      <guid>https://enriquesolarte.github.io/projects/2023_itri_rods/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>360-DFPE: Leveraging Monocular 360-Layouts for Direct Floor Plan Estimation</title>
       <link>https://enriquesolarte.github.io/publication/2022_360-dfpe/</link>
       <pubDate>Thu, 01 Dec 2022 00:00:00 +0100</pubDate>
       <guid>https://enriquesolarte.github.io/publication/2022_360-dfpe/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Stereo VSLAM for an AVG robot</title>
+      <link>https://enriquesolarte.github.io/projects/2022_mirle_vslam/</link>
+      <pubDate>Thu, 25 Aug 2022 09:53:42 +0200</pubDate>
+      <guid>https://enriquesolarte.github.io/projects/2022_mirle_vslam/</guid>
       <description></description>
     </item>
     <item>
@@ -59,65 +101,23 @@
     </item>
     <item>
       <title>Cutting Insert and Parameter Optimization for Turning Based on Artificial Neural Networks and a Genetic Algorithm</title>
-      <link>https://enriquesolarte.github.io/projects/2018_suliban/</link>
-      <pubDate>Sun, 01 Dec 2019 00:00:00 +0100</pubDate>
-      <guid>https://enriquesolarte.github.io/projects/2018_suliban/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Cutting Insert and Parameter Optimization for Turning Based on Artificial Neural Networks and a Genetic Algorithm</title>
-      <link>https://enriquesolarte.github.io/projects/2019_vslam_mirle/</link>
-      <pubDate>Sun, 01 Dec 2019 00:00:00 +0100</pubDate>
-      <guid>https://enriquesolarte.github.io/projects/2019_vslam_mirle/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Cutting Insert and Parameter Optimization for Turning Based on Artificial Neural Networks and a Genetic Algorithm</title>
-      <link>https://enriquesolarte.github.io/projects/2020_rods/</link>
-      <pubDate>Sun, 01 Dec 2019 00:00:00 +0100</pubDate>
-      <guid>https://enriquesolarte.github.io/projects/2020_rods/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Cutting Insert and Parameter Optimization for Turning Based on Artificial Neural Networks and a Genetic Algorithm</title>
-      <link>https://enriquesolarte.github.io/projects/2021_tiki/</link>
-      <pubDate>Sun, 01 Dec 2019 00:00:00 +0100</pubDate>
-      <guid>https://enriquesolarte.github.io/projects/2021_tiki/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Cutting Insert and Parameter Optimization for Turning Based on Artificial Neural Networks and a Genetic Algorithm</title>
-      <link>https://enriquesolarte.github.io/projects/2022_iclerk/</link>
-      <pubDate>Sun, 01 Dec 2019 00:00:00 +0100</pubDate>
-      <guid>https://enriquesolarte.github.io/projects/2022_iclerk/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Cutting Insert and Parameter Optimization for Turning Based on Artificial Neural Networks and a Genetic Algorithm</title>
-      <link>https://enriquesolarte.github.io/projects/2023_semanticmap/</link>
-      <pubDate>Sun, 01 Dec 2019 00:00:00 +0100</pubDate>
-      <guid>https://enriquesolarte.github.io/projects/2023_semanticmap/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Cutting Insert and Parameter Optimization for Turning Based on Artificial Neural Networks and a Genetic Algorithm</title>
-      <link>https://enriquesolarte.github.io/projects/2024_mvlchallenge/</link>
-      <pubDate>Sun, 01 Dec 2019 00:00:00 +0100</pubDate>
-      <guid>https://enriquesolarte.github.io/projects/2024_mvlchallenge/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Cutting Insert and Parameter Optimization for Turning Based on Artificial Neural Networks and a Genetic Algorithm</title>
-      <link>https://enriquesolarte.github.io/projects/2025_mvldatasets/</link>
-      <pubDate>Sun, 01 Dec 2019 00:00:00 +0100</pubDate>
-      <guid>https://enriquesolarte.github.io/projects/2025_mvldatasets/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Cutting Insert and Parameter Optimization for Turning Based on Artificial Neural Networks and a Genetic Algorithm</title>
       <link>https://enriquesolarte.github.io/publication/2019_cutting_insert_opt/</link>
       <pubDate>Sun, 01 Dec 2019 00:00:00 +0100</pubDate>
       <guid>https://enriquesolarte.github.io/publication/2019_cutting_insert_opt/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Robot Mobile Platform for Patrolling Convenience Stores</title>
+      <link>https://enriquesolarte.github.io/projects/2018_itri_sulivan/</link>
+      <pubDate>Thu, 25 Oct 2018 09:53:42 +0200</pubDate>
+      <guid>https://enriquesolarte.github.io/projects/2018_itri_sulivan/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Servo Control Tuning Using Genetic Algorithms and Gradient Descent</title>
+      <link>https://enriquesolarte.github.io/projects/2017_itri_ga_optimization/</link>
+      <pubDate>Fri, 25 Aug 2017 09:53:42 +0200</pubDate>
+      <guid>https://enriquesolarte.github.io/projects/2017_itri_ga_optimization/</guid>
       <description></description>
     </item>
   </channel>

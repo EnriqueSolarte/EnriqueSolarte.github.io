@@ -3,7 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://enriquesolarte.github.io/</loc>
-    <lastmod>2024-02-01T00:00:00+01:00</lastmod>
+    <lastmod>2024-11-25T09:53:42+02:00</lastmod>
+  </url><url>
+    <loc>https://enriquesolarte.github.io/projects/</loc>
+    <lastmod>2024-11-25T09:53:42+02:00</lastmod>
+  </url><url>
+    <loc>https://enriquesolarte.github.io/projects/2024_itri_semantic_map/</loc>
+    <lastmod>2024-11-25T09:53:42+02:00</lastmod>
+  </url><url>
+    <loc>https://enriquesolarte.github.io/projects/2024_itri_iclerk/</loc>
+    <lastmod>2024-07-25T09:53:42+02:00</lastmod>
   </url><url>
     <loc>https://enriquesolarte.github.io/publication/2024_ifusion/</loc>
     <lastmod>2024-02-01T00:00:00+01:00</lastmod>
@@ -14,14 +23,26 @@
     <loc>https://enriquesolarte.github.io/publication/2024_ulayout/</loc>
     <lastmod>2024-02-01T00:00:00+03:00</lastmod>
   </url><url>
+    <loc>https://enriquesolarte.github.io/projects/2024_itri_tiki/</loc>
+    <lastmod>2024-01-25T09:53:42+02:00</lastmod>
+  </url><url>
     <loc>https://enriquesolarte.github.io/publication/2024_ray_casting_mlc/</loc>
     <lastmod>2024-01-01T00:00:00+01:00</lastmod>
   </url><url>
     <loc>https://enriquesolarte.github.io/publication/2022_360-mlc/</loc>
     <lastmod>2023-12-01T00:00:00+01:00</lastmod>
   </url><url>
+    <loc>https://enriquesolarte.github.io/projects/2023_cvpr_mvl_challenge/</loc>
+    <lastmod>2023-09-25T09:53:42+02:00</lastmod>
+  </url><url>
+    <loc>https://enriquesolarte.github.io/projects/2023_itri_rods/</loc>
+    <lastmod>2023-06-25T09:53:42+02:00</lastmod>
+  </url><url>
     <loc>https://enriquesolarte.github.io/publication/2022_360-dfpe/</loc>
     <lastmod>2022-12-01T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>https://enriquesolarte.github.io/projects/2022_mirle_vslam/</loc>
+    <lastmod>2022-08-25T09:53:42+02:00</lastmod>
   </url><url>
     <loc>https://enriquesolarte.github.io/publication/2021_robust_360_8pa/</loc>
     <lastmod>2021-12-01T00:00:00+01:00</lastmod>
@@ -29,35 +50,14 @@
     <loc>https://enriquesolarte.github.io/publication/2020_360sd-net/</loc>
     <lastmod>2020-12-01T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>https://enriquesolarte.github.io/projects/2018_suliban/</loc>
-    <lastmod>2019-12-01T00:00:00+01:00</lastmod>
-  </url><url>
-    <loc>https://enriquesolarte.github.io/projects/2019_vslam_mirle/</loc>
-    <lastmod>2019-12-01T00:00:00+01:00</lastmod>
-  </url><url>
-    <loc>https://enriquesolarte.github.io/projects/2020_rods/</loc>
-    <lastmod>2019-12-01T00:00:00+01:00</lastmod>
-  </url><url>
-    <loc>https://enriquesolarte.github.io/projects/2021_tiki/</loc>
-    <lastmod>2019-12-01T00:00:00+01:00</lastmod>
-  </url><url>
-    <loc>https://enriquesolarte.github.io/projects/2022_iclerk/</loc>
-    <lastmod>2019-12-01T00:00:00+01:00</lastmod>
-  </url><url>
-    <loc>https://enriquesolarte.github.io/projects/2023_semanticmap/</loc>
-    <lastmod>2019-12-01T00:00:00+01:00</lastmod>
-  </url><url>
-    <loc>https://enriquesolarte.github.io/projects/2024_mvlchallenge/</loc>
-    <lastmod>2019-12-01T00:00:00+01:00</lastmod>
-  </url><url>
-    <loc>https://enriquesolarte.github.io/projects/2025_mvldatasets/</loc>
-    <lastmod>2019-12-01T00:00:00+01:00</lastmod>
-  </url><url>
     <loc>https://enriquesolarte.github.io/publication/2019_cutting_insert_opt/</loc>
     <lastmod>2019-12-01T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>https://enriquesolarte.github.io/projects/</loc>
-    <lastmod>2019-12-01T00:00:00+01:00</lastmod>
+    <loc>https://enriquesolarte.github.io/projects/2018_itri_sulivan/</loc>
+    <lastmod>2018-10-25T09:53:42+02:00</lastmod>
+  </url><url>
+    <loc>https://enriquesolarte.github.io/projects/2017_itri_ga_optimization/</loc>
+    <lastmod>2017-08-25T09:53:42+02:00</lastmod>
   </url><url>
     <loc>https://enriquesolarte.github.io/categories/</loc>
   </url><url>
