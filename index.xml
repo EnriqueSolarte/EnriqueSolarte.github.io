@@ -9,7 +9,7 @@
     <lastBuildDate>Mon, 25 Nov 2024 09:53:42 +0200</lastBuildDate>
     <atom:link href="https://enriquesolarte.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Semantic Map and Robot Reasoning</title>
+      <title>Semantic Map for Robot Reasoning</title>
       <link>https://enriquesolarte.github.io/projects/2024_itri_semantic_map/</link>
       <pubDate>Mon, 25 Nov 2024 09:53:42 +0200</pubDate>
       <guid>https://enriquesolarte.github.io/projects/2024_itri_semantic_map/</guid>
@@ -79,7 +79,7 @@
       <description></description>
     </item>
     <item>
-      <title>Stereo VSLAM for an AVG robot</title>
+      <title>Stereo VSLAM for an AMR</title>
       <link>https://enriquesolarte.github.io/projects/2022_mirle_vslam/</link>
       <pubDate>Thu, 25 Aug 2022 09:53:42 +0200</pubDate>
       <guid>https://enriquesolarte.github.io/projects/2022_mirle_vslam/</guid>
